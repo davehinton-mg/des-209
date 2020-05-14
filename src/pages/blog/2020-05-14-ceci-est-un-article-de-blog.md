@@ -19,6 +19,4 @@ Ceci est du texte en **gras**, en *italique* et ***les deux en meme temps***.
 
 ![C'est une image inquietante](/img/random.jpg "C'est une image inquietante")
 
-![C'est une animation](/img/file-from-ios.gif "C'est une animation")
-
 C'est la derniere phrase de cet article de blog.
