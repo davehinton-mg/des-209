@@ -7,7 +7,9 @@ description: Dies ist ein Blog-Beitrag.  Viele andere Dinge sind auch Dinge.
 featuredpost: true
 featuredimage: /img/charlie_brooker.jpg
 tags:
-  - page-example de version-primary
+  - page-example
+  - de
+  - version-primary
 ---
 Dies ist ein Blog-Beitrag.
 
