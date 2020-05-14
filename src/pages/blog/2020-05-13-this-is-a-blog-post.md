@@ -7,7 +7,7 @@ description: This is a blog post. Lots of other things are also things. Here is
 featuredpost: true
 featuredimage: /img/charlie_brooker.jpg
 tags:
-  - wat
+  - page-example en version-primary
 ---
 This is a blog post.
 
