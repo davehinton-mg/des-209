@@ -19,6 +19,4 @@ This is some text in **bold**, *italic*, and ***both at the same time***.
 
 ![Budgie with barbie legs](/img/random.jpg "This is a disturbing picture")
 
-![An animated optical illusion](/img/file-from-ios.gif "This is an animation of an impossible wheel in space")
-
 This is the last sentence in this blog post.
