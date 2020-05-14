@@ -9,7 +9,7 @@ featuredimage: /img/charlie_brooker.jpg
 tags:
   - page-example
   - version-primary
-  - fr
+  - lang-fr
 ---
 Ceci est un article de blog.
 

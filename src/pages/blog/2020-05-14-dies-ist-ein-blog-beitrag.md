@@ -8,7 +8,7 @@ featuredpost: true
 featuredimage: /img/charlie_brooker.jpg
 tags:
   - page-example
-  - de
+  - lang-de
   - version-primary
 ---
 Dies ist ein Blog-Beitrag.
