@@ -7,7 +7,9 @@ description: Ceci est un article de blog. Beaucoup d'autres choses sont aussi
 featuredpost: true
 featuredimage: /img/charlie_brooker.jpg
 tags:
-  - page-example version-primary fr
+  - page-example
+  - version-primary
+  - fr
 ---
 Ceci est un article de blog.
 
