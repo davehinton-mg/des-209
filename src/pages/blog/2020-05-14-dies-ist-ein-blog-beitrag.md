@@ -15,7 +15,7 @@ Dies ist ein Blog-Beitrag.
 
 Dieser Blog-Beitrag enthaeult ein Bild von Charlie Brooker.
 
-Dies ist ein Link zu einen Charlie Brooker Video (in Englisch).
+[Dies ist ein Link zu einen Charlie Brooker Video](https://www.youtube.com/watch?v=aHun58mz3vI) (in Englisch).
 
 Dies ist ein fett, kursiv gedruckter Text und beides gleichzeitig.
 
